@@ -13,7 +13,7 @@ If you find this code helpful, please kindly cite:
 ```bibtex
 @Article{wu2023ncFSRM,
   title={A Framelet Sparse Reconstruction Method for Pansharpening with Guaranteed Convergence}, 
-  author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and and Vivone, Gemine}, 
+  author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Vivone, Gemine}, 
   journal={Inverse Problems and Imaging},
   volume={},
   number={},
